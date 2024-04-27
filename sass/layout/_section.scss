@@ -1,0 +1,93 @@
+.section {
+  padding-top: 136px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.h2-my {
+  color: rgb(3, 3, 3);
+  font-family: Plus Jakarta Sans;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.sec-h2 {
+  color: rgb(3, 3, 3);
+  font-family: Plus Jakarta Sans;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 50px;
+  letter-spacing: 0px;
+  text-align: left;
+  padding-bottom: 34px;
+}
+
+.sec-p {
+  color: rgb(122, 116, 110);
+  font-family: Plus Jakarta Sans;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+  padding-bottom: 32px;
+}
+.sec-btn {
+  color: aliceblue;
+  border: 0;
+  width: 228px;
+  height: 56px;
+  border-radius: 28px;
+  background: rgb(235, 117, 101);
+}
+
+.sec-btn:active {
+  transform: translate(0px, 5px);
+  background: rgba(246, 165, 96, 1);
+}
+
+.imgsss {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  padding-top: 56px;
+  padding-bottom: 56px;
+
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.sectionimgs {
+  padding-top: 88px;
+  text-align: center;
+  padding-bottom: 88px;
+}
+
+.chapbtn {
+  border: 0;
+  border-radius: 50%;
+  width: 64px;
+  height: 64px;
+  left: 2090.63%;
+  right: -2090.63%;
+  top: 800%;
+  bottom: -800%;
+  background: rgb(3, 3, 3);
+}
+.chapbtn:active {
+  transform: translate(0px, 5px);
+
+  background: rgba(117, 92, 222, 1);
+}
+.btns {
+  padding-top: 56px;
+}
+.girl-img {
+  border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}

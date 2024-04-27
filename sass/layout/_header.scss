@@ -1,0 +1,46 @@
+body {
+  background: rgb(255, 247, 240);
+}
+
+.btn-logo {
+  border: 0;
+  width: 228px;
+  height: 56px;
+  border-radius: 28px;
+  color: aliceblue;
+  background: rgb(3, 3, 3);
+}
+.btn-logo:active {
+  transform: translate(0px, 5px);
+  background: #755cde;
+}
+.nav-logo {
+  padding-top: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.img {
+  align-items: center;
+  justify-content: center;
+  padding-top: 80px;
+  display: flex;
+  gap: 25px;
+}
+
+.betwin2 {
+  display: flex;
+  gap: 26px;
+}
+
+.betwen {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.right {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}

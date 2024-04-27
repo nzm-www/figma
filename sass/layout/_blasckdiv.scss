@@ -1,0 +1,30 @@
+.blackdiv {
+  background-color: black;
+  height: 320px;
+  color: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 10px;
+  box-shadow: rgb(235, 117, 101) 0px 5px 15px;
+}
+
+.bl-h2 {
+  padding-bottom: 25px;
+  color: rgb(255, 247, 240);
+  font-family: Plus Jakarta Sans;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 50px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+.bl-p {
+  color: rgb(255, 247, 240);
+  font-family: Plus Jakarta Sans;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+}
